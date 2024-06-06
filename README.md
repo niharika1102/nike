@@ -6,9 +6,9 @@
 
 <h2>🚀 Demo</h2>
 
-[https://6661c75ff5a46808fb56baa6--nike-v1-react.netlify.app/](https://6661c75ff5a46808fb56baa6--nike-v1-react.netlify.app/)
+[Nike Landing Page](https://6661c75ff5a46808fb56baa6--nike-v1-react.netlify.app/)
 
-<h2>Project Screenshots:</h2>
+<h2>Project Screenshots</h2>
 
 <img src="https://i.imgur.com/BkDEAPI.png" alt="project-screenshot/">
 
@@ -21,7 +21,7 @@
 Here are some of the project's best features:
 
 *   Responsive
-*   User friendly experience
+*   User-friendly experience
 
 <h2>🛠️ Installation Steps:</h2>
 
