@@ -10,15 +10,15 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/BkDEAPI.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/BkDEAPI.png" alt="project-screenshot/">
 
-<img src="https://i.imgur.com/kzuo6Wc.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/kzuo6Wc.png" alt="project-screenshot/">
 
   
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Here are some of the project's best features:
 
 *   Responsive
 *   User friendly experience
@@ -39,7 +39,7 @@ npm install
 npm run dev
 ```
 
-<p>4. Visit http://localhost:5173 to view the web page.</p>
+<p>4. Visit <a href="http://localhost:5173">http://localhost:5173</a> to view the web page.</p>
 
   
   
