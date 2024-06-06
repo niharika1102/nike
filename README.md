@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/niharika1102/nike/image?description=1&amp;descriptionEditable=Discover%20stylish%20Nike%20arrivals%2C%20quality%20comfort%2C%20and%20innovation%20for%20your%20active%20life.&amp;font=Inter&amp;forks=1&amp;language=1&amp;logo=https%3A%2F%2Flogodix.com%2Flogo%2F999355.png&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
-<p id="description" style="text-align: center; font-size: 150px">Discover stylish Nike arrivals quality comfort and innovation for your active life.</p>
+<p id="description" style="text-align: center;">Discover stylish Nike arrivals quality comfort and innovation for your active life.</p>
 
 <h2>🚀 Demo</h2>
 
